@@ -89,7 +89,8 @@ public class CubiertaVertices{
         }
         ArrayList<Integer> solucion = cv.adivinador();
         boolean esSol = cv.verificador(solucion);
-        System.out.println("");
+        System.out.println("\nEl entero k es " + cv.k);
+        System.out.print("El conjunto solucion es: ");
         for(int i : solucion)
             System.out.print(i + ", ");
         System.out.println("");
