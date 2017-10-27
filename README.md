@@ -15,3 +15,14 @@ $ javac -cp gs-core-1.3.jar CubiertaVertices.java
 Ejecutar, Cubierta de Vertices:
 
 $ java -cp gs-core-1.3.jar:. CubiertaVertices
+
+
+
+Compilar, TSP:
+
+$ javac -cp gs-core-1.3.jar TSP.java
+
+
+Ejecutar, TSP:
+
+$ java -cp gs-core-1.3.jar:. TSP
