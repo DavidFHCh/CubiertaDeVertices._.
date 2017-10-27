@@ -99,7 +99,7 @@ public class CubiertaVertices{
 
         ArrayList<Integer> solucion = cv.creaCubierta();
         for (int sol :solucion) {
-            cv.g.getNode(Integer.toString(sol)).addAttribute("ui.style", "fill-color: rgb(0,100,255);");;
+            cv.g.getNode(Integer.toString(sol)).addAttribute("ui.style", "fill-color: rgb(0,100,255);");
         }
         cv.g.display();
     }
