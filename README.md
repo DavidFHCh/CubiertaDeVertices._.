@@ -16,7 +16,7 @@ Ejecutar, Cubierta de Vertices:
 
 $ java -cp gs-core-1.3.jar:. CubiertaVertices
 
-
+----------------------------------------
 
 Compilar, TSP:
 
