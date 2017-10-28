@@ -20,9 +20,9 @@ $ java -cp gs-core-1.3.jar:. CubiertaVertices
 
 Compilar, TSP:
 
-$ javac -cp gs-core-1.3.jar TSP.java
+$ javac -cp gs-algo-1.3.jar:gs-core-1.3.jar TSP.java 
 
 
 Ejecutar, TSP:
 
-$ java -cp gs-core-1.3.jar:. TSP
+$ java -cp gs-algo-1.3.jar:gs-core-1.3.jar:. TSP
