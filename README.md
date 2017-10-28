@@ -18,6 +18,7 @@ $ java -cp gs-core-1.3.jar:. CubiertaVertices
 
 ----------------------------------------
 
+Por problemas de implementacion no se puede pintar la ultima arista de un color mas llamativo pero si se aprecia.
 Compilar, TSP:
 
 $ javac -cp gs-algo-1.3.jar:gs-core-1.3.jar TSP.java 
